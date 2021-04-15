@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=NetJ18_1 Pin=P13-1
+Removed Pin From Net: NetName=NetJ17_1 Pin=P13-2
+Change Component Footprint: Designator=P13 Old Footprint=SMTC-TSW-102-26-XX-S New Footprint=SMTC-TSW-103-07-X-S
+Change Component Comment : Designator=P13 Old Comment=RxTx New Comment=UART
+Change Managed Component Library Link : Designator=P13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=A3DCCE29-A6D8-4CA1-B156-9699F9DD87B7 New ItemGUID=1C2FAA6D-C7D1-4F49-8787-58F6B2D5BF2B Old RevisionGUID=481DBA7F-7BC9-4896-ADBE-57642117DABB New RevisionGUID=FE058138-F902-428E-A8A9-475989BD6730
+Change component parameters: Designator = "P13" ("P13"); Footprint = "SMTC-TSW-102-26-XX-S"; UniqueID = "\WVOUJNQX" ("\WVOUJNQX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/TSW_TH.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/TSW-XXX-XX-XXX-X-XX-XXX-MKT.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through-hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = ".025[0.64] SQ. Post Terminal Strip Assembly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TSW-103-07-X-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "DM, 8/1988"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TSW-103-07-T-S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55 to 105 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J21-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=J22-1
+Added Pin To Net: NetName=NetL4_1 Pin=L4-1
+Added Pin To Net: NetName=AGND Pin=P13-1
+Added Pin To Net: NetName=NetJ18_1 Pin=P13-2
+Added Pin To Net: NetName=NetJ17_1 Pin=P13-3
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=P14-1
+Added Pin To Net: NetName=NetTP1_1 Pin=TP1-1
+Added Pin To Net: NetName=NetTP2_1 Pin=TP2-1
+Added Pin To Net: NetName=NetTP4_1 Pin=TP4-1
+Added Pin To Net: NetName=NetTP5_1 Pin=TP5-1
+Added Pin To Net: NetName=NetTP6_1 Pin=TP6-1
+Added Pin To Net: NetName=NetTP2_1 Pin=U1-34
+Added Pin To Net: NetName=NetTP6_1 Pin=U1-39
+Added Pin To Net: NetName=NetTP5_1 Pin=U1-40
+Added Pin To Net: NetName=NetTP4_1 Pin=U1-43
+Added Pin To Net: NetName=NetTP1_1 Pin=U1-47
+Added Pin To Net: NetName=NetTP1_1 Pin=U6-5
+Added Pin To Net: NetName=NetTP2_1 Pin=U6-6
+Added Pin To Net: NetName=NetTP4_1 Pin=U6-7
+Added Pin To Net: NetName=NetTP5_1 Pin=U6-8
+Added Pin To Net: NetName=NetTP6_1 Pin=U6-10
+Added Pin To Net: NetName=PwrDown_int2_aux2 Pin=U6-28
+Added Pin To Net: NetName=NetL4_1 Pin=U6-31

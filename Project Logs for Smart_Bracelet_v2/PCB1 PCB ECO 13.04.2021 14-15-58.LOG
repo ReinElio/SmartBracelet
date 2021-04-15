@@ -1,0 +1,35 @@
+Added Component: Designator=U7(JT-2450AT18D0100E_V)
+Add component (AddParameter): Name = "Antenna Type"; Value = "Chip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "RF/IFandRFID"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.johansontechnology.com/datasheets/antennas/2450AT18D0100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 3.0, 09/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "RFAntennas"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency (Center/Band)"; Value = "2.4GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Group"; Value = "UHF(2GHz~3GHz)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Range"; Value = "2.4GHz~2.5GHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gain"; Value = "1.5dBi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.047"(1.20mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ingress Protection"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Johanson Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.johansontechnology.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Bands"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "JohansonTechnologyInc-Embedded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "712-1573-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Surface Mount Device, Body 3.2 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "2450AT18D0100E"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape&Reel(TR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power - Max"; Value = "2W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Return Loss"; Value = "-10dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "3,000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VSWR"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Antenna Pin=U7-1
+Added Pin To Net: NetName=AGND Pin=U7-2
+Added Pin To Net: NetName=AGND Pin=U7-3
+Added Pin To Net: NetName=AGND Pin=U7-4
+Added Member To Class: ClassName=Sheet3 Member=Component U7 2450AT18D0100E

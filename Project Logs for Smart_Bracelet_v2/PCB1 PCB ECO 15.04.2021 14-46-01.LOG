@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=INT1 Pin=TP7-1
+Removed Member From Class: ClassName=Smart_Bracelet Member=TP1
+Removed Member From Class: ClassName=Smart_Bracelet Member=TP2
+Removed Member From Class: ClassName=Smart_Bracelet Member=TP4
+Removed Member From Class: ClassName=Smart_Bracelet Member=TP5
+Removed Member From Class: ClassName=Smart_Bracelet Member=TP6
+Removed Member From Class: ClassName=Smart_Bracelet Member=TP7
+Added Pin To Net: NetName=NetU1_34 Pin=U1-34
+Added Pin To Net: NetName=NetU1_34 Pin=U6-6
+Added Net: Name=NetU1_34
+Added Pin To Net: NetName=NetU1_39 Pin=U1-39
+Added Pin To Net: NetName=NetU1_39 Pin=U6-10
+Added Net: Name=NetU1_39
+Added Pin To Net: NetName=NetU1_40 Pin=U1-40
+Added Pin To Net: NetName=NetU1_40 Pin=U6-8
+Added Net: Name=NetU1_40
+Added Pin To Net: NetName=NetU1_43 Pin=U1-43
+Added Pin To Net: NetName=NetU1_43 Pin=U6-7
+Added Net: Name=NetU1_43
+Added Pin To Net: NetName=NetU1_47 Pin=U1-47
+Added Pin To Net: NetName=NetU1_47 Pin=U6-5
+Added Net: Name=NetU1_47

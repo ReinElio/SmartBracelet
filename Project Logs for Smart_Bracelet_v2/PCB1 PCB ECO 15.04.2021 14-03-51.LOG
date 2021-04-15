@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SDA Pin=TP8-1
+Removed Pin From Net: NetName=SCL Pin=TP9-1
+Removed Member From Class: ClassName=Smart_Bracelet Member=TP8
+Removed Member From Class: ClassName=Smart_Bracelet Member=TP9
